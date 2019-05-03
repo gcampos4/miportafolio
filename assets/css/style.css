@@ -1,0 +1,28 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.bg-color1 {
+  background-color: #660066;
+}
+
+.text-header {
+  background-image: url('../img/perfil.jpg');
+  background-repeat: no-repeat;
+  background-size: cover  ;
+  background-position: center;
+  padding-bottom: 13rem;
+}
+
+.parrafo1 {
+  text-align: center;
+  color: #000;
+}
+
+.gb-morado {
+  background-color: #660066;
+}
+
+.icon-section {
+  color: #fff;
+}
