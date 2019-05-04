@@ -34,3 +34,7 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+span {
+  font-family: 'Coming Soon', cursive;
+}
