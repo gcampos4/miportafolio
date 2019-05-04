@@ -26,3 +26,7 @@ body {
 .icon-section {
   color: #fff;
 }
+
+html {
+  scroll-behavior: smooth;
+}
